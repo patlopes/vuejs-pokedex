@@ -1,4 +1,8 @@
-# pokedex-web
+# Pokedex Web
+
+<img src="https://raw.githubusercontent.com/patlopes/vuejs-pokedex/main/readme-files/home.png">
+<img src="https://github.com/patlopes/vuejs-pokedex/blob/main/readme-files/captured.gif?raw=true">
+
 
 ## Project setup
 ```
